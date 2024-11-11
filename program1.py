@@ -1,7 +1,5 @@
 class Solution(object):
     def isValid(self, s):
-        class Solution:
-    def isValid(self, s: str) -> bool:
         stk = []
         d = {'()', '[]', '{}'}
         for c in s:
